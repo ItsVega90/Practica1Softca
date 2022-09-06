@@ -2,8 +2,8 @@ PRACTICA 1 GIT
 Crear repositorio: 
 1.	Crear un repositorio en vuestro GitHub llamado Practica1Softca. 
 2.	Clonar vuestro repositorio en local.
- 
- 
+
+![Image text](https://github.com/ItsVega90/Imagenes/blob/main/Screenshots/001.png)
 
 
 
